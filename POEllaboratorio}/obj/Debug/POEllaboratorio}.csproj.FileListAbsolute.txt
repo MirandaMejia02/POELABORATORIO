@@ -1,0 +1,10 @@
+C:\Users\Miguel\source\repos\POEllaboratorio}\bin\Debug\POEllaboratorio}.exe.config
+C:\Users\Miguel\source\repos\POEllaboratorio}\bin\Debug\POEllaboratorio}.exe
+C:\Users\Miguel\source\repos\POEllaboratorio}\bin\Debug\POEllaboratorio}.pdb
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio}.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio_.Form1.resources
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio_.Properties.Resources.resources
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio}.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio}.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio}.exe
+C:\Users\Miguel\source\repos\POEllaboratorio}\obj\Debug\POEllaboratorio}.pdb
